@@ -35,6 +35,13 @@
         "prepublishOnly": "npm run build",
         "publish": "npm run build && npm publish --access public"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/avishka-devinda/avishka-ui-style"
+      },
+      "bugs": {
+        "url": "https://github.com/avishka-devinda/avishka-ui-style/issues"
+      },
     "author": "avishka devinda",
     "license": "MIT",
     "devDependencies": {
